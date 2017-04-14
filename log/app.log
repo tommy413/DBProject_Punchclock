@@ -1,0 +1,317 @@
+[2016-01-06 03:02:19] app.INFO: Home page action dispatched [] {"uid":"fc42295"}
+[2016-01-06 03:37:02] app.INFO: Home page action dispatched [] {"uid":"3820396"}
+[2016-01-06 03:40:27] app.INFO: Home page action dispatched [] {"uid":"0b3d06b"}
+[2016-01-06 03:44:56] app.DEBUG: array (   0 => 'OfficeNUM',   1 => 'Name',   2 => 'City',   3 => 'ManagerNUM', ) [] {"uid":"e44d431"}
+[2016-01-06 03:49:11] app.INFO: Display page action dispatched [] {"uid":"905c5e5"}
+[2016-01-06 03:51:03] app.INFO: Display page action dispatched [] {"uid":"d9efdd2"}
+[2016-01-06 03:51:15] app.INFO: Display page action dispatched [] {"uid":"7b46b83"}
+[2016-01-06 03:51:53] app.INFO: Display page action dispatched [] {"uid":"fd04d16"}
+[2016-01-06 03:52:12] app.INFO: Display page action dispatched [] {"uid":"2d36978"}
+[2016-01-06 04:00:17] app.INFO: Display page action dispatched [] {"uid":"981e1e9"}
+[2016-01-06 04:18:26] app.INFO: Display page action dispatched [] {"uid":"6953047"}
+[2016-01-06 04:18:53] app.DEBUG: array (   0 => 'OfficeNUM',   1 => 'Name',   2 => 'City',   3 => 'ManagerNUM', ) [] {"uid":"e65ae70"}
+[2016-01-06 04:23:25] app.INFO: Display page action dispatched [] {"uid":"8078aa5"}
+[2016-01-06 04:23:35] app.INFO: Display page action dispatched [] {"uid":"0705ab1"}
+[2016-01-06 04:23:41] app.INFO: Display page action dispatched [] {"uid":"0c24281"}
+[2016-01-06 04:24:02] app.INFO: Display page action dispatched [] {"uid":"e5a41b7"}
+[2016-01-06 04:25:31] app.INFO: Display page action dispatched [] {"uid":"fdd6251"}
+[2016-01-06 04:27:13] app.INFO: Display page action dispatched [] {"uid":"f489636"}
+[2016-01-16 05:56:53] app.DEBUG: array (   0 => 'OfficeNUM',   1 => 'Name',   2 => 'City',   3 => 'ManagerNUM', ) [] {"uid":"96a27f2"}
+[2016-01-16 05:57:22] app.INFO: Display page action dispatched [] {"uid":"16d7551"}
+[2016-01-16 05:57:36] app.INFO: Display page action dispatched [] {"uid":"1a478a0"}
+[2016-01-16 05:57:47] app.INFO: Display page action dispatched [] {"uid":"1968d56"}
+[2016-01-16 05:58:16] app.INFO: Display page action dispatched [] {"uid":"910f8df"}
+[2016-01-16 05:59:53] app.INFO: Display page action dispatched [] {"uid":"940226a"}
+[2016-01-16 05:59:54] app.INFO: Display page action dispatched [] {"uid":"e427794"}
+[2016-01-16 06:06:14] app.DEBUG: array (   0 => 'OfficeNUM',   1 => 'Name',   2 => 'City',   3 => 'ManagerNUM', ) [] {"uid":"5fa7102"}
+[2016-01-16 06:06:48] app.DEBUG: array (   0 => 'OfficeNUM',   1 => 'Name',   2 => 'City',   3 => 'ManagerNUM', ) [] {"uid":"9ef54ae"}
+[2016-01-16 06:06:51] app.DEBUG: array (   0 => 'OfficeNUM',   1 => 'Name',   2 => 'City',   3 => 'ManagerNUM', ) [] {"uid":"8c810f3"}
+[2016-01-16 06:07:43] app.DEBUG: array (   0 => 'OfficeNUM',   1 => 'Name',   2 => 'City',   3 => 'ManagerNUM', ) [] {"uid":"8e89b23"}
+[2016-01-16 06:17:50] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '0',     0 => '0',     'EmployeeNUM' => '1',     1 => '1',     'StateNUM' => '1',     2 => '1',     'Time' => '0000-00-00 00:00:00',     3 => '0000-00-00 00:00:00',     'Disabled' => '0',     4 => '0',   ),   1 =>    array (     'ItemNUM' => '1',     0 => '1',     'EmployeeNUM' => '1',     1 => '1',     'StateNUM' => '2',     2 => '2',     'Time' => '2016-01-05 21:38:25',     3 => '2016-01-05 21:38:25',     'Disabled' => '0',     4 => '0',   ), ) [] {"uid":"37b98ec"}
+[2016-01-16 06:30:53] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '0',     0 => '0',     'EmployeeNUM' => '1',     1 => '1',     'StateNUM' => '1',     2 => '1',     'Time' => '0000-00-00 00:00:00',     3 => '0000-00-00 00:00:00',     'Disabled' => '0',     4 => '0',   ),   1 =>    array (     'ItemNUM' => '1',     0 => '1',     'EmployeeNUM' => '1',     1 => '1',     'StateNUM' => '2',     2 => '2',     'Time' => '2016-01-05 21:38:25',     3 => '2016-01-05 21:38:25',     'Disabled' => '0',     4 => '0',   ), ) [] {"uid":"46d10e3"}
+[2016-01-16 06:31:12] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '0',     0 => '0',     'EmployeeNUM' => '1',     1 => '1',     'StateNUM' => '1',     2 => '1',     'Time' => '0000-00-00 00:00:00',     3 => '0000-00-00 00:00:00',     'Disabled' => '0',     4 => '0',   ),   1 =>    array (     'ItemNUM' => '1',     0 => '1',     'EmployeeNUM' => '1',     1 => '1',     'StateNUM' => '2',     2 => '2',     'Time' => '2016-01-05 21:38:25',     3 => '2016-01-05 21:38:25',     'Disabled' => '0',     4 => '0',   ), ) [] {"uid":"ebb970c"}
+[2016-01-16 06:31:31] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '0',     0 => '0',     'EmployeeNUM' => '1',     1 => '1',     'StateNUM' => '1',     2 => '1',     'Time' => '0000-00-00 00:00:00',     3 => '0000-00-00 00:00:00',     'Disabled' => '0',     4 => '0',   ),   1 =>    array (     'ItemNUM' => '1',     0 => '1',     'EmployeeNUM' => '1',     1 => '1',     'StateNUM' => '2',     2 => '2',     'Time' => '2016-01-05 21:38:25',     3 => '2016-01-05 21:38:25',     'Disabled' => '0',     4 => '0',   ), ) [] {"uid":"d2c67d4"}
+[2016-01-16 06:32:48] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '0',     0 => '0',     'EmployeeNUM' => '1',     1 => '1',     'StateNUM' => '1',     2 => '1',     'Time' => '0000-00-00 00:00:00',     3 => '0000-00-00 00:00:00',     'Disabled' => '0',     4 => '0',   ),   1 =>    array (     'ItemNUM' => '1',     0 => '1',     'EmployeeNUM' => '1',     1 => '1',     'StateNUM' => '2',     2 => '2',     'Time' => '2016-01-05 21:38:25',     3 => '2016-01-05 21:38:25',     'Disabled' => '0',     4 => '0',   ), ) [] {"uid":"14f5eb6"}
+[2016-01-16 06:36:37] app.INFO: Display page action dispatched [] {"uid":"9b802f3"}
+[2016-01-16 06:36:49] app.INFO: Display page action dispatched [] {"uid":"3c64de6"}
+[2016-01-16 06:36:59] app.INFO: Display page action dispatched [] {"uid":"8cc5b28"}
+[2016-01-16 06:37:14] app.INFO: Display page action dispatched [] {"uid":"647400d"}
+[2016-01-16 06:37:17] app.INFO: Display page action dispatched [] {"uid":"dd3e2fc"}
+[2016-01-16 06:37:25] app.INFO: Display page action dispatched [] {"uid":"1353734"}
+[2016-01-16 06:37:44] app.INFO: Display page action dispatched [] {"uid":"aaf3668"}
+[2016-01-16 06:37:51] app.INFO: Display page action dispatched [] {"uid":"9e096fe"}
+[2016-01-16 06:38:03] app.INFO: Display page action dispatched [] {"uid":"5011bbb"}
+[2016-01-16 06:38:41] app.INFO: Display page action dispatched [] {"uid":"a3df3f7"}
+[2016-01-16 06:48:31] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '0',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ), ) [] {"uid":"735c788"}
+[2016-01-16 07:05:07] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '0',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ), ) [] {"uid":"9c5686c"}
+[2016-01-16 07:06:11] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '0',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   'Time' => NULL, ) [] {"uid":"64b6683"}
+[2016-01-16 07:08:35] app.DEBUG: NULL [] {"uid":"b12d7e6"}
+[2016-01-16 07:09:45] app.DEBUG: array (   0 =>    array (     0 =>      array (       'ItemNUM' => '0',       'EmployeeNUM' => '1',       'StateNUM' => '1',       'Time' => '0000-00-00 00:00:00',       'Disabled' => '0',     ),     1 =>      array (       'ItemNUM' => '1',       'EmployeeNUM' => '1',       'StateNUM' => '2',       'Time' => '2016-01-05 21:38:25',       'Disabled' => '0',     ),   ), ) [] {"uid":"dabf3d4"}
+[2016-01-16 07:11:06] app.DEBUG: array (   0 => '0000-00-00 00:00:00',   1 => '2016-01-05 21:38:25', ) [] {"uid":"3dd76df"}
+[2016-01-16 07:13:16] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '0',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ), ) [] {"uid":"8c28cef"}
+[2016-01-16 07:29:40] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ), ) [] {"uid":"9a1fc6f"}
+[2016-01-16 07:35:37] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ), ) [] {"uid":"b7dd67a"}
+[2016-01-16 07:49:03] app.INFO: Display page action dispatched [] {"uid":"96600f5"}
+[2016-01-16 07:49:43] app.INFO: Display page action dispatched [] {"uid":"2bc439e"}
+[2016-01-16 07:49:44] app.INFO: Display page action dispatched [] {"uid":"f44906b"}
+[2016-01-16 07:50:54] app.INFO: Display page action dispatched [] {"uid":"51b95e3"}
+[2016-01-16 07:50:54] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '0',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '1',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ), ) [] {"uid":"51b95e3"}
+[2016-01-16 07:50:54] app.DEBUG: false [] {"uid":"51b95e3"}
+[2016-01-16 07:51:55] app.INFO: Display page action dispatched [] {"uid":"78924c3"}
+[2016-01-16 07:51:55] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '0',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '1',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ), ) [] {"uid":"78924c3"}
+[2016-01-16 07:52:23] app.INFO: Display page action dispatched [] {"uid":"603a2b2"}
+[2016-01-16 07:52:23] app.DEBUG: array (   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ), ) [] {"uid":"603a2b2"}
+[2016-01-16 07:52:32] app.INFO: Display page action dispatched [] {"uid":"c2aa0e4"}
+[2016-01-16 07:52:32] app.DEBUG: array (   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ), ) [] {"uid":"c2aa0e4"}
+[2016-01-16 07:53:52] app.INFO: Display page action dispatched [] {"uid":"fcc7f95"}
+[2016-01-16 07:53:52] app.DEBUG: array (   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => NULL,     'Disabled' => '0',   ), ) [] {"uid":"fcc7f95"}
+[2016-01-16 07:56:26] app.INFO: Display page action dispatched [] {"uid":"b9c7886"}
+[2016-01-16 07:56:26] app.DEBUG: array (   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => NULL,     'Disabled' => '0',   ), ) [] {"uid":"b9c7886"}
+[2016-01-16 07:56:28] app.INFO: Display page action dispatched [] {"uid":"0d164d7"}
+[2016-01-16 07:56:28] app.DEBUG: array (   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => NULL,     'Disabled' => '0',   ), ) [] {"uid":"0d164d7"}
+[2016-01-16 07:56:51] app.INFO: Display page action dispatched [] {"uid":"4dd124d"}
+[2016-01-16 07:56:51] app.DEBUG: array (   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ), ) [] {"uid":"4dd124d"}
+[2016-01-16 08:01:33] app.INFO: Display page action dispatched [] {"uid":"ee39941"}
+[2016-01-16 08:01:33] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ), ) [] {"uid":"ee39941"}
+[2016-01-16 08:02:28] app.INFO: Display page action dispatched [] {"uid":"70fb131"}
+[2016-01-16 08:02:28] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ), ) [] {"uid":"70fb131"}
+[2016-01-16 08:04:11] app.INFO: Display page action dispatched [] {"uid":"5f44ff6"}
+[2016-01-16 08:04:11] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ), ) [] {"uid":"5f44ff6"}
+[2016-01-16 08:04:44] app.INFO: Display page action dispatched [] {"uid":"503c93d"}
+[2016-01-16 08:04:44] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ), ) [] {"uid":"503c93d"}
+[2016-01-16 08:05:54] app.INFO: Display page action dispatched [] {"uid":"14cac2b"}
+[2016-01-16 08:05:54] app.DEBUG: 0 [] {"uid":"14cac2b"}
+[2016-01-16 08:06:13] app.INFO: Display page action dispatched [] {"uid":"bb5517c"}
+[2016-01-16 08:06:13] app.DEBUG: 5 [] {"uid":"bb5517c"}
+[2016-01-16 08:06:25] app.INFO: Display page action dispatched [] {"uid":"5b627bf"}
+[2016-01-16 08:06:25] app.DEBUG: 305 [] {"uid":"5b627bf"}
+[2016-01-16 08:37:33] app.INFO: Display page action dispatched [] {"uid":"92e6eb0"}
+[2016-01-16 08:37:33] app.DEBUG: 0 [] {"uid":"92e6eb0"}
+[2016-01-16 08:40:27] app.INFO: Display page action dispatched [] {"uid":"3bb4820"}
+[2016-01-16 08:40:27] app.DEBUG: 0 [] {"uid":"3bb4820"}
+[2016-01-16 08:40:41] app.INFO: Display page action dispatched [] {"uid":"139b6d5"}
+[2016-01-16 08:40:41] app.DEBUG: 0 [] {"uid":"139b6d5"}
+[2016-01-16 08:42:16] app.INFO: Display page action dispatched [] {"uid":"805a662"}
+[2016-01-16 08:42:16] app.DEBUG: array (   0 => NULL,   1 =>    array (     0 =>      array (       'ItemNUM' => '3',       'EmployeeNUM' => '1',       'StateNUM' => '0',       'Time' => '0000-00-00 00:00:00',       'Disabled' => '0',     ),     1 =>      array (       'ItemNUM' => '1',       'EmployeeNUM' => '1',       'StateNUM' => '2',       'Time' => '2016-01-05 21:38:25',       'Disabled' => '0',     ),     2 =>      array (       'ItemNUM' => '2',       'EmployeeNUM' => '1',       'StateNUM' => '1',       'Time' => '2016-01-16 14:23:21',       'Disabled' => '0',     ),   ), ) [] {"uid":"805a662"}
+[2016-01-16 08:42:16] app.DEBUG: 0 [] {"uid":"805a662"}
+[2016-01-16 08:42:49] app.INFO: Display page action dispatched [] {"uid":"8c856de"}
+[2016-01-16 08:42:49] app.DEBUG: array (   0 => NULL,   1 =>    array (     0 =>      array (       'ItemNUM' => '3',       'EmployeeNUM' => '1',       'StateNUM' => '0',       'Time' => '0000-00-00 00:00:00',       'Disabled' => '0',     ),     1 =>      array (       'ItemNUM' => '1',       'EmployeeNUM' => '1',       'StateNUM' => '2',       'Time' => '2016-01-05 21:38:25',       'Disabled' => '0',     ),     2 =>      array (       'ItemNUM' => '2',       'EmployeeNUM' => '1',       'StateNUM' => '1',       'Time' => '2016-01-16 14:23:21',       'Disabled' => '0',     ),   ), ) [] {"uid":"8c856de"}
+[2016-01-16 08:42:49] app.DEBUG: 0 [] {"uid":"8c856de"}
+[2016-01-16 08:42:50] app.INFO: Display page action dispatched [] {"uid":"ff4da94"}
+[2016-01-16 08:42:50] app.DEBUG: array (   0 => NULL,   1 =>    array (     0 =>      array (       'ItemNUM' => '3',       'EmployeeNUM' => '1',       'StateNUM' => '0',       'Time' => '0000-00-00 00:00:00',       'Disabled' => '0',     ),     1 =>      array (       'ItemNUM' => '1',       'EmployeeNUM' => '1',       'StateNUM' => '2',       'Time' => '2016-01-05 21:38:25',       'Disabled' => '0',     ),     2 =>      array (       'ItemNUM' => '2',       'EmployeeNUM' => '1',       'StateNUM' => '1',       'Time' => '2016-01-16 14:23:21',       'Disabled' => '0',     ),   ), ) [] {"uid":"ff4da94"}
+[2016-01-16 08:42:50] app.DEBUG: 0 [] {"uid":"ff4da94"}
+[2016-01-16 08:42:50] app.INFO: Display page action dispatched [] {"uid":"23e18ba"}
+[2016-01-16 08:42:50] app.DEBUG: array (   0 => NULL,   1 =>    array (     0 =>      array (       'ItemNUM' => '3',       'EmployeeNUM' => '1',       'StateNUM' => '0',       'Time' => '0000-00-00 00:00:00',       'Disabled' => '0',     ),     1 =>      array (       'ItemNUM' => '1',       'EmployeeNUM' => '1',       'StateNUM' => '2',       'Time' => '2016-01-05 21:38:25',       'Disabled' => '0',     ),     2 =>      array (       'ItemNUM' => '2',       'EmployeeNUM' => '1',       'StateNUM' => '1',       'Time' => '2016-01-16 14:23:21',       'Disabled' => '0',     ),   ), ) [] {"uid":"23e18ba"}
+[2016-01-16 08:42:50] app.DEBUG: 0 [] {"uid":"23e18ba"}
+[2016-01-16 08:42:50] app.INFO: Display page action dispatched [] {"uid":"ce83b8b"}
+[2016-01-16 08:42:50] app.DEBUG: array (   0 => NULL,   1 =>    array (     0 =>      array (       'ItemNUM' => '3',       'EmployeeNUM' => '1',       'StateNUM' => '0',       'Time' => '0000-00-00 00:00:00',       'Disabled' => '0',     ),     1 =>      array (       'ItemNUM' => '1',       'EmployeeNUM' => '1',       'StateNUM' => '2',       'Time' => '2016-01-05 21:38:25',       'Disabled' => '0',     ),     2 =>      array (       'ItemNUM' => '2',       'EmployeeNUM' => '1',       'StateNUM' => '1',       'Time' => '2016-01-16 14:23:21',       'Disabled' => '0',     ),   ), ) [] {"uid":"ce83b8b"}
+[2016-01-16 08:42:50] app.DEBUG: 0 [] {"uid":"ce83b8b"}
+[2016-01-16 08:42:51] app.INFO: Display page action dispatched [] {"uid":"8e83185"}
+[2016-01-16 08:42:51] app.DEBUG: array (   0 => NULL,   1 =>    array (     0 =>      array (       'ItemNUM' => '3',       'EmployeeNUM' => '1',       'StateNUM' => '0',       'Time' => '0000-00-00 00:00:00',       'Disabled' => '0',     ),     1 =>      array (       'ItemNUM' => '1',       'EmployeeNUM' => '1',       'StateNUM' => '2',       'Time' => '2016-01-05 21:38:25',       'Disabled' => '0',     ),     2 =>      array (       'ItemNUM' => '2',       'EmployeeNUM' => '1',       'StateNUM' => '1',       'Time' => '2016-01-16 14:23:21',       'Disabled' => '0',     ),   ), ) [] {"uid":"8e83185"}
+[2016-01-16 08:42:51] app.DEBUG: 0 [] {"uid":"8e83185"}
+[2016-01-16 08:42:59] app.INFO: Display page action dispatched [] {"uid":"5089ccf"}
+[2016-01-16 08:42:59] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'ItemNUM' => '3',       'EmployeeNUM' => '1',       'StateNUM' => '0',       'Time' => '0000-00-00 00:00:00',       'Disabled' => '0',     ),     1 =>      array (       'ItemNUM' => '1',       'EmployeeNUM' => '1',       'StateNUM' => '2',       'Time' => '2016-01-05 21:38:25',       'Disabled' => '0',     ),     2 =>      array (       'ItemNUM' => '2',       'EmployeeNUM' => '1',       'StateNUM' => '1',       'Time' => '2016-01-16 14:23:21',       'Disabled' => '0',     ),   ), ) [] {"uid":"5089ccf"}
+[2016-01-16 08:42:59] app.DEBUG: 0 [] {"uid":"5089ccf"}
+[2016-01-16 08:43:00] app.INFO: Display page action dispatched [] {"uid":"22b2679"}
+[2016-01-16 08:43:00] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'ItemNUM' => '3',       'EmployeeNUM' => '1',       'StateNUM' => '0',       'Time' => '0000-00-00 00:00:00',       'Disabled' => '0',     ),     1 =>      array (       'ItemNUM' => '1',       'EmployeeNUM' => '1',       'StateNUM' => '2',       'Time' => '2016-01-05 21:38:25',       'Disabled' => '0',     ),     2 =>      array (       'ItemNUM' => '2',       'EmployeeNUM' => '1',       'StateNUM' => '1',       'Time' => '2016-01-16 14:23:21',       'Disabled' => '0',     ),   ), ) [] {"uid":"22b2679"}
+[2016-01-16 08:43:00] app.DEBUG: 0 [] {"uid":"22b2679"}
+[2016-01-16 08:47:35] app.INFO: Display page action dispatched [] {"uid":"9c3305b"}
+[2016-01-16 08:47:35] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'ItemNUM' => '3',       'EmployeeNUM' => '1',       'StateNUM' => '0',       'Time' => '0000-00-00 00:00:00',       'Disabled' => '0',     ),     1 =>      array (       'ItemNUM' => '1',       'EmployeeNUM' => '1',       'StateNUM' => '2',       'Time' => '2016-01-05 21:38:25',       'Disabled' => '0',     ),     2 =>      array (       'ItemNUM' => '2',       'EmployeeNUM' => '1',       'StateNUM' => '1',       'Time' => '2016-01-16 14:23:21',       'Disabled' => '0',     ),   ), ) [] {"uid":"9c3305b"}
+[2016-01-16 08:47:35] app.DEBUG: 0 [] {"uid":"9c3305b"}
+[2016-01-16 08:48:50] app.INFO: Display page action dispatched [] {"uid":"02fb060"}
+[2016-01-16 08:48:50] app.DEBUG: NULL [] {"uid":"02fb060"}
+[2016-01-16 08:48:50] app.DEBUG: 0 [] {"uid":"02fb060"}
+[2016-01-16 08:50:02] app.INFO: Display page action dispatched [] {"uid":"bf0e22d"}
+[2016-01-16 08:50:02] app.DEBUG: array (   0 =>    array (     'StateNUM' => '0',     'StateName' => 'Work',     'In_or_out' => '1',   ),   1 =>    array (     'StateNUM' => '1',     'StateName' => 'Leave',     'In_or_out' => '0',   ),   2 =>    array (     'StateNUM' => '2',     'StateName' => 'Wait',     'In_or_out' => '1',   ), ) [] {"uid":"bf0e22d"}
+[2016-01-16 08:50:02] app.DEBUG: 1 [] {"uid":"bf0e22d"}
+[2016-01-16 08:50:45] app.INFO: Display page action dispatched [] {"uid":"5c14274"}
+[2016-01-16 08:50:45] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ), ) [] {"uid":"5c14274"}
+[2016-01-16 08:50:45] app.DEBUG: 1 [] {"uid":"5c14274"}
+[2016-01-16 08:51:43] app.INFO: Display page action dispatched [] {"uid":"64035e0"}
+[2016-01-16 08:51:43] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ), ) [] {"uid":"64035e0"}
+[2016-01-16 08:51:43] app.DEBUG: 2016 [] {"uid":"64035e0"}
+[2016-01-16 08:52:52] app.INFO: Display page action dispatched [] {"uid":"2fc1a6c"}
+[2016-01-16 08:52:52] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ), ) [] {"uid":"2fc1a6c"}
+[2016-01-16 08:52:52] app.DEBUG: array (   0 => '0000-00-00 00:00:00',   1 => '2016-01-16 14:23:21',   2 => 2016, ) [] {"uid":"2fc1a6c"}
+[2016-01-16 08:54:32] app.INFO: Display page action dispatched [] {"uid":"4814ba3"}
+[2016-01-16 08:54:32] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ), ) [] {"uid":"4814ba3"}
+[2016-01-16 08:54:32] app.DEBUG: array (   0 => '0000-00-00 00:00:00',   1 => '2016-01-16 14:23:21',   2 => 2016, ) [] {"uid":"4814ba3"}
+[2016-01-16 08:56:07] app.INFO: Display page action dispatched [] {"uid":"4eaa89c"}
+[2016-01-16 08:56:08] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '4',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 15:55:56',     'Disabled' => '0',   ), ) [] {"uid":"4eaa89c"}
+[2016-01-16 08:56:08] app.DEBUG: array (   0 => '0000-00-00 00:00:00',   1 => '2016-01-16 14:23:21',   2 => 2016, ) [] {"uid":"4eaa89c"}
+[2016-01-16 09:03:34] app.INFO: Display page action dispatched [] {"uid":"df32a57"}
+[2016-01-16 09:03:34] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '4',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 15:55:56',     'Disabled' => '0',   ), ) [] {"uid":"df32a57"}
+[2016-01-16 09:03:34] app.DEBUG: array (   0 => '0000-00-00 00:00:00',   1 => '2016-01-16 14:23:21',   2 => 2016, ) [] {"uid":"df32a57"}
+[2016-01-16 09:05:05] app.INFO: Display page action dispatched [] {"uid":"5202a16"}
+[2016-01-16 09:05:05] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '4',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 15:55:56',     'Disabled' => '0',   ), ) [] {"uid":"5202a16"}
+[2016-01-16 09:05:05] app.DEBUG: array (   0 => '0000-00-00 00:00:00',   1 => '2016-01-16 14:23:21',   2 => 2016, ) [] {"uid":"5202a16"}
+[2016-01-16 09:11:07] app.INFO: Display page action dispatched [] {"uid":"65a520b"}
+[2016-01-16 09:11:07] app.DEBUG: array (   0 =>    array (     'Time' => NULL,   ), ) [] {"uid":"65a520b"}
+[2016-01-16 09:11:20] app.INFO: Display page action dispatched [] {"uid":"1c67dbe"}
+[2016-01-16 09:11:20] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '0000-00-00 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '4',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 15:55:56',     'Disabled' => '0',   ), ) [] {"uid":"1c67dbe"}
+[2016-01-16 09:11:20] app.DEBUG: array (   0 => '0000-00-00 00:00:00',   1 => '2016-01-16 14:23:21',   2 => 2016, ) [] {"uid":"1c67dbe"}
+[2016-01-16 09:11:55] app.INFO: Display page action dispatched [] {"uid":"d43ea04"}
+[2016-01-16 09:11:55] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '2016-01-01 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '4',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 15:55:56',     'Disabled' => '0',   ), ) [] {"uid":"d43ea04"}
+[2016-01-16 09:11:55] app.DEBUG: array (   0 => '2016-01-01 00:00:00',   1 => '2016-01-16 14:23:21',   2 => 0, ) [] {"uid":"d43ea04"}
+[2016-01-16 09:13:08] app.INFO: Display page action dispatched [] {"uid":"31dcec8"}
+[2016-01-16 09:13:08] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '2016-01-01 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '4',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 15:55:56',     'Disabled' => '0',   ), ) [] {"uid":"31dcec8"}
+[2016-01-16 09:13:08] app.DEBUG: array (   0 => 1451602800,   1 => 1452950601,   2 => 1347801, ) [] {"uid":"31dcec8"}
+[2016-01-16 09:13:59] app.INFO: Display page action dispatched [] {"uid":"2015ffd"}
+[2016-01-16 09:13:59] app.DEBUG: array (   0 =>    array (     'ItemNUM' => '3',     'EmployeeNUM' => '1',     'StateNUM' => '0',     'Time' => '2016-01-01 00:00:00',     'Disabled' => '0',   ),   1 =>    array (     'ItemNUM' => '1',     'EmployeeNUM' => '1',     'StateNUM' => '2',     'Time' => '2016-01-05 21:38:25',     'Disabled' => '0',   ),   2 =>    array (     'ItemNUM' => '2',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 14:23:21',     'Disabled' => '0',   ),   3 =>    array (     'ItemNUM' => '4',     'EmployeeNUM' => '1',     'StateNUM' => '1',     'Time' => '2016-01-16 15:55:56',     'Disabled' => '0',   ), ) [] {"uid":"2015ffd"}
+[2016-01-16 09:13:59] app.DEBUG: 374 [] {"uid":"2015ffd"}
+[2016-01-16 12:38:48] app.INFO: Display page action dispatched [] {"uid":"b8e7917"}
+[2016-01-16 12:39:02] app.INFO: Display page action dispatched [] {"uid":"05eb658"}
+[2016-01-16 12:39:41] app.INFO: Display page action dispatched [] {"uid":"91b9486"}
+[2016-01-16 12:40:21] app.INFO: Display page action dispatched [] {"uid":"2d37d53"}
+[2016-01-16 12:40:32] app.INFO: Display page action dispatched [] {"uid":"7147a2b"}
+[2016-01-16 12:41:50] app.INFO: Display page action dispatched [] {"uid":"60f1207"}
+[2016-01-16 12:41:51] app.INFO: Display page action dispatched [] {"uid":"d18c11f"}
+[2016-01-16 12:43:32] app.INFO: Display page action dispatched [] {"uid":"1ca35ad"}
+[2016-01-16 12:43:33] app.INFO: Display page action dispatched [] {"uid":"5ac1901"}
+[2016-01-16 12:43:44] app.INFO: Display page action dispatched [] {"uid":"8b51220"}
+[2016-01-16 12:45:01] app.INFO: Display page action dispatched [] {"uid":"1bf9348"}
+[2016-01-16 12:45:33] app.INFO: Display page action dispatched [] {"uid":"66ae139"}
+[2016-01-16 12:45:33] app.DEBUG: array (   0 => false,   1 => false,   2 =>    PDOStatement::__set_state(array(      'queryString' => 'SELECT MAX(EmployeeNUM) FROM employee ',   )), ) [] {"uid":"66ae139"}
+[2016-01-16 12:46:18] app.INFO: Display page action dispatched [] {"uid":"f1fdcbc"}
+[2016-01-16 12:46:18] app.DEBUG: array (   0 =>    PDOStatement::__set_state(array(      'queryString' => 'SELECT OfficeNUM FROM office WHERE \'Name\'=\'\'',   )),   1 =>    PDOStatement::__set_state(array(      'queryString' => 'SELECT GroupNUM FROM Groupdata WHERE \'GroupName\'=\'\'',   )),   2 =>    PDOStatement::__set_state(array(      'queryString' => 'SELECT MAX(EmployeeNUM) FROM employee ',   )), ) [] {"uid":"f1fdcbc"}
+[2016-01-16 12:46:18] app.DEBUG: array (   0 => false,   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"f1fdcbc"}
+[2016-01-16 12:47:01] app.INFO: Display page action dispatched [] {"uid":"824f773"}
+[2016-01-16 12:47:01] app.DEBUG: array (   0 => false,   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"824f773"}
+[2016-01-16 12:47:22] app.INFO: Display page action dispatched [] {"uid":"ebafac3"}
+[2016-01-16 12:47:22] app.DEBUG: array (   0 => false,   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"ebafac3"}
+[2016-01-16 12:49:54] app.INFO: Display page action dispatched [] {"uid":"5c6ad73"}
+[2016-01-16 12:49:54] app.DEBUG: array (   0 => false,   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"5c6ad73"}
+[2016-01-16 12:50:16] app.INFO: Display page action dispatched [] {"uid":"025e86e"}
+[2016-01-16 12:50:16] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"025e86e"}
+[2016-01-16 12:55:24] app.INFO: Display page action dispatched [] {"uid":"4a67ebf"}
+[2016-01-16 12:55:24] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => NULL, ) [] {"uid":"4a67ebf"}
+[2016-01-16 12:55:55] app.INFO: Display page action dispatched [] {"uid":"af18f10"}
+[2016-01-16 12:55:55] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"af18f10"}
+[2016-01-16 12:57:34] app.INFO: Display page action dispatched [] {"uid":"9383643"}
+[2016-01-16 12:57:34] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"9383643"}
+[2016-01-16 12:57:34] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"9383643"}
+[2016-01-16 13:01:13] app.INFO: Display page action dispatched [] {"uid":"9b03435"}
+[2016-01-16 13:01:13] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"9b03435"}
+[2016-01-16 13:01:13] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"9b03435"}
+[2016-01-16 13:03:34] app.INFO: Display page action dispatched [] {"uid":"79f7f08"}
+[2016-01-16 13:03:34] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"79f7f08"}
+[2016-01-16 13:03:34] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"79f7f08"}
+[2016-01-16 13:04:09] app.INFO: Display page action dispatched [] {"uid":"5035709"}
+[2016-01-16 13:04:10] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"5035709"}
+[2016-01-16 13:04:10] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"5035709"}
+[2016-01-16 13:05:06] app.INFO: Display page action dispatched [] {"uid":"d02dd43"}
+[2016-01-16 13:05:06] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 =>    array (     'GroupNUM' => '1',     'GroupName' => 'HR',     'ManagerNUM' => '0',   ),   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"d02dd43"}
+[2016-01-16 13:05:06] app.DEBUG: array (   0 => '2',   1 => '1',   2 => 1, ) [] {"uid":"d02dd43"}
+[2016-01-16 13:06:38] app.INFO: Display page action dispatched [] {"uid":"1e0b0de"}
+[2016-01-16 13:06:38] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"1e0b0de"}
+[2016-01-16 13:06:38] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"1e0b0de"}
+[2016-01-16 13:07:35] app.INFO: Display page action dispatched [] {"uid":"cd80980"}
+[2016-01-16 13:07:35] app.DEBUG: NULL [] {"uid":"cd80980"}
+[2016-01-16 13:07:35] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"cd80980"}
+[2016-01-16 13:07:35] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"cd80980"}
+[2016-01-16 13:09:08] app.INFO: Display page action dispatched [] {"uid":"3bdee37"}
+[2016-01-16 13:09:08] app.DEBUG: array (   0 => NULL,   1 => NULL,   2 => NULL,   3 => NULL, ) [] {"uid":"3bdee37"}
+[2016-01-16 13:09:08] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"3bdee37"}
+[2016-01-16 13:09:08] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"3bdee37"}
+[2016-01-16 13:09:35] app.INFO: Display page action dispatched [] {"uid":"675e47a"}
+[2016-01-16 13:09:35] app.DEBUG: array (   0 => NULL,   1 => NULL,   2 => NULL,   3 => NULL, ) [] {"uid":"675e47a"}
+[2016-01-16 13:09:35] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"675e47a"}
+[2016-01-16 13:09:35] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"675e47a"}
+[2016-01-16 13:10:09] app.INFO: Display page action dispatched [] {"uid":"d0d2aba"}
+[2016-01-16 13:10:09] app.DEBUG: NULL [] {"uid":"d0d2aba"}
+[2016-01-16 13:10:09] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"d0d2aba"}
+[2016-01-16 13:10:09] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"d0d2aba"}
+[2016-01-16 13:11:44] app.INFO: Display page action dispatched [] {"uid":"a467c86"}
+[2016-01-16 13:11:44] app.DEBUG: NULL [] {"uid":"a467c86"}
+[2016-01-16 13:11:44] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"a467c86"}
+[2016-01-16 13:11:44] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"a467c86"}
+[2016-01-16 13:13:50] app.INFO: Display page action dispatched [] {"uid":"90e830e"}
+[2016-01-16 13:13:51] app.DEBUG: NULL [] {"uid":"90e830e"}
+[2016-01-16 13:13:51] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"90e830e"}
+[2016-01-16 13:13:51] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"90e830e"}
+[2016-01-16 13:14:10] app.INFO: Display page action dispatched [] {"uid":"8baeb03"}
+[2016-01-16 13:14:10] app.DEBUG: NULL [] {"uid":"8baeb03"}
+[2016-01-16 13:14:10] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"8baeb03"}
+[2016-01-16 13:14:10] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"8baeb03"}
+[2016-01-16 13:19:03] app.INFO: Display page action dispatched [] {"uid":"d561450"}
+[2016-01-16 13:19:03] app.DEBUG: NULL [] {"uid":"d561450"}
+[2016-01-16 13:19:03] app.DEBUG: array (   0 =>    array (     'OfficeNUM' => '2',   ),   1 => false,   2 =>    array (     'MAX(EmployeeNUM)' => NULL,   ), ) [] {"uid":"d561450"}
+[2016-01-16 13:19:03] app.DEBUG: array (   0 => '2',   1 => NULL,   2 => 1, ) [] {"uid":"d561450"}
+[2016-01-16 13:20:18] app.INFO: Display page action dispatched [] {"uid":"6b67837"}
+[2016-01-16 13:22:32] app.INFO: Display page action dispatched [] {"uid":"2868247"}
+[2016-01-16 13:22:54] app.INFO: Display page action dispatched [] {"uid":"50694cf"}
+[2016-01-16 13:30:59] app.INFO: Display page action dispatched [] {"uid":"b305d38"}
+[2016-01-16 13:32:24] app.INFO: Display page action dispatched [] {"uid":"838ace4"}
+[2016-01-16 13:32:52] app.INFO: Display page action dispatched [] {"uid":"fee3126"}
+[2016-01-16 13:33:57] app.INFO: Display page action dispatched [] {"uid":"c2576bc"}
+[2016-01-16 13:38:35] app.INFO: Display page action dispatched [] {"uid":"a99a96d"}
+[2016-01-16 13:40:18] app.INFO: Display page action dispatched [] {"uid":"f1632a0"}
+[2016-01-16 13:40:37] app.INFO: Display page action dispatched [] {"uid":"82700db"}
+[2016-01-16 13:41:53] app.INFO: Display page action dispatched [] {"uid":"be9d818"}
+[2016-01-16 13:42:15] app.INFO: Display page action dispatched [] {"uid":"0742654"}
+[2016-01-16 13:42:31] app.INFO: Display page action dispatched [] {"uid":"bf25aa6"}
+[2016-01-16 13:52:03] app.INFO: Display page action dispatched [] {"uid":"5005ba7"}
+[2016-01-16 13:52:58] app.INFO: Display page action dispatched [] {"uid":"dc06d31"}
+[2016-01-16 13:56:15] app.INFO: Display page action dispatched [] {"uid":"0074d7a"}
+[2016-01-16 13:59:30] app.INFO: Display page action dispatched [] {"uid":"9a8e09f"}
+[2016-01-16 14:00:10] app.INFO: Display page action dispatched [] {"uid":"8bca4f0"}
+[2016-01-16 14:01:22] app.INFO: Display page action dispatched [] {"uid":"3a0ebd0"}
+[2016-01-16 14:04:28] app.INFO: Display page action dispatched [] {"uid":"69d4896"}
+[2016-01-16 14:06:01] app.INFO: Display page action dispatched [] {"uid":"41e0830"}
+[2016-01-16 14:06:37] app.INFO: Display page action dispatched [] {"uid":"0549e8a"}
+[2016-01-16 14:06:49] app.INFO: Display page action dispatched [] {"uid":"539318b"}
+[2016-01-16 14:07:19] app.INFO: Display page action dispatched [] {"uid":"6f107a1"}
+[2016-01-16 14:10:13] app.INFO: Display page action dispatched [] {"uid":"f0cc908"}
+[2016-01-16 14:10:36] app.INFO: Display page action dispatched [] {"uid":"a383eeb"}
+[2016-01-16 14:11:17] app.INFO: Display page action dispatched [] {"uid":"22300d8"}
+[2016-01-16 14:12:17] app.INFO: Display page action dispatched [] {"uid":"a6d1e4c"}
+[2016-01-16 14:13:39] app.INFO: Display page action dispatched [] {"uid":"d53b1cf"}
+[2016-01-16 14:13:57] app.INFO: Display page action dispatched [] {"uid":"c9e0665"}
+[2016-01-16 14:17:30] app.INFO: Display page action dispatched [] {"uid":"3cfa620"}
+[2016-01-16 14:21:48] app.INFO: Display page action dispatched [] {"uid":"5455a92"}
+[2016-01-16 14:22:12] app.INFO: Display page action dispatched [] {"uid":"55da65c"}
+[2016-01-16 14:22:44] app.INFO: Display page action dispatched [] {"uid":"ecc5225"}
+[2016-01-16 14:22:49] app.INFO: Display page action dispatched [] {"uid":"8d95785"}
+[2016-01-16 17:21:43] app.INFO: Display page action dispatched [] {"uid":"061f0de"}
+[2016-01-16 19:13:42] app.DEBUG: array (   0 => false,   1 =>    array (     'Name' => 'HQ',   ),   2 =>    array (     'GroupName' => 'HR',   ),   3 =>    array (     'StateName' => 'Work',   ),   4 =>    array (     0 =>      array (       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     1 =>      array (       'updated' => '2016-01-05 21:38:25',       'note' => '',     ),     2 =>      array (       'updated' => '2016-01-16 14:23:21',       'note' => '',     ),     3 =>      array (       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     4 =>      array (       'updated' => '2016-01-16 15:55:56',       'note' => '',     ),   ), ) [] {"uid":"2b70b8f"}
+[2016-01-16 19:15:06] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'Name' => 'HQ',     ),     1 =>      array (       'Name' => 'MQ',     ),     2 =>      array (       'Name' => 'IT',     ),     3 =>      array (       'Name' => '',     ),   ),   2 =>    array (     0 =>      array (       'GroupName' => 'HR',     ),     1 =>      array (       'GroupName' => 'Design',     ),   ),   3 =>    array (     0 =>      array (       'StateName' => 'Work',     ),     1 =>      array (       'StateName' => 'Leave',     ),     2 =>      array (       'StateName' => 'Wait',     ),   ),   4 =>    array (     0 =>      array (       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     1 =>      array (       'updated' => '2016-01-05 21:38:25',       'note' => '',     ),     2 =>      array (       'updated' => '2016-01-16 14:23:21',       'note' => '',     ),     3 =>      array (       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     4 =>      array (       'updated' => '2016-01-16 15:55:56',       'note' => '',     ),   ), ) [] {"uid":"2cdc506"}
+[2016-01-16 19:17:34] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'Name' => 'HQ',     ),     1 =>      array (       'Name' => 'MQ',     ),     2 =>      array (       'Name' => 'IT',     ),     3 =>      array (       'Name' => '',     ),   ),   2 =>    array (     0 =>      array (       'GroupName' => 'HR',     ),     1 =>      array (       'GroupName' => 'Design',     ),   ),   3 =>    array (     0 =>      array (       'StateName' => 'Work',     ),     1 =>      array (       'StateName' => 'Leave',     ),     2 =>      array (       'StateName' => 'Wait',     ),   ),   4 =>    array (     0 =>      array (       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     1 =>      array (       'updated' => '2016-01-05 21:38:25',       'note' => '',     ),     2 =>      array (       'updated' => '2016-01-16 14:23:21',       'note' => '',     ),     3 =>      array (       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     4 =>      array (       'updated' => '2016-01-16 15:55:56',       'note' => '',     ),   ), ) [] {"uid":"35054a8"}
+[2016-01-16 19:18:42] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'Name' => 'HQ',     ),     1 =>      array (       'Name' => 'MQ',     ),     2 =>      array (       'Name' => 'IT',     ),     3 =>      array (       'Name' => '',     ),   ),   2 =>    array (     0 =>      array (       'GroupName' => 'HR',     ),     1 =>      array (       'GroupName' => 'Design',     ),   ),   3 =>    array (     0 =>      array (       'StateNUM' => '0',       'StateName' => 'Work',     ),     1 =>      array (       'StateNUM' => '1',       'StateName' => 'Leave',     ),     2 =>      array (       'StateNUM' => '2',       'StateName' => 'Wait',     ),   ),   4 =>    array (     0 =>      array (       'status' => 'Leave',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     1 =>      array (       'status' => 'Wait',       'updated' => '2016-01-05 21:38:25',       'note' => '',     ),     2 =>      array (       'status' => 'Leave',       'updated' => '2016-01-16 14:23:21',       'note' => '',     ),     3 =>      array (       'status' => 'Work',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     4 =>      array (       'status' => 'Leave',       'updated' => '2016-01-16 15:55:56',       'note' => '',     ),   ), ) [] {"uid":"32203f8"}
+[2016-01-16 19:19:44] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'status' => 'Leave',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     1 =>      array (       'status' => 'Wait',       'updated' => '2016-01-05 21:38:25',       'note' => '',     ),     2 =>      array (       'status' => 'Leave',       'updated' => '2016-01-16 14:23:21',       'note' => '',     ),     3 =>      array (       'status' => 'Work',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     4 =>      array (       'status' => 'Leave',       'updated' => '2016-01-16 15:55:56',       'note' => '',     ),   ), ) [] {"uid":"6517923"}
+[2016-01-16 19:20:43] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'status' => 'Leave',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     1 =>      array (       'status' => 'Wait',       'updated' => '2016-01-05 21:38:25',       'note' => '',     ),     2 =>      array (       'status' => 'Leave',       'updated' => '2016-01-16 14:23:21',       'note' => '',     ),     3 =>      array (       'status' => 'Work',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     4 =>      array (       'status' => 'Leave',       'updated' => '2016-01-16 15:55:56',       'note' => '',     ),   ), ) [] {"uid":"ae919c5"}
+[2016-01-16 19:30:50] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'status' => 'Out',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     1 =>      array (       'status' => 'Break',       'updated' => '2016-01-05 21:38:25',       'note' => '',     ),     2 =>      array (       'status' => 'Out',       'updated' => '2016-01-16 14:23:21',       'note' => '',     ),     3 =>      array (       'status' => 'In',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     4 =>      array (       'status' => 'Out',       'updated' => '2016-01-16 15:55:56',       'note' => '',     ),   ), ) [] {"uid":"925ad29"}
+[2016-01-16 19:40:07] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'status' => 'Out',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     1 =>      array (       'status' => 'Break',       'updated' => '2016-01-05 21:38:25',       'note' => '',     ),     2 =>      array (       'status' => 'Out',       'updated' => '2016-01-16 14:23:21',       'note' => '',     ),     3 =>      array (       'status' => 'In',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     4 =>      array (       'status' => 'Out',       'updated' => '2016-01-16 15:55:56',       'note' => '',     ),   ), ) [] {"uid":"abaca9d"}
+[2016-01-16 19:42:10] app.DEBUG: array (   0 =>    array (   ),   1 =>    array (     0 =>      array (       'status' => 'In',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     1 =>      array (       'status' => 'Out',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     2 =>      array (       'status' => 'Break',       'updated' => '2016-01-05 21:38:25',       'note' => '',     ),     3 =>      array (       'status' => 'Out',       'updated' => '2016-01-16 14:23:21',       'note' => '',     ),     4 =>      array (       'status' => 'Out',       'updated' => '2016-01-16 15:55:56',       'note' => '',     ),   ), ) [] {"uid":"6d0cf68"}
+[2016-01-16 19:44:27] app.DEBUG: array (   0 =>    array (     0 =>      array (       'EmployeeNUM' => '1',       'Name' => 'Kevin',       'OrganNUM' => '0',       'Passhash' => '',       'Note' => '',     ),     1 =>      array (       'EmployeeNUM' => '2',       'Name' => 'Tommy',       'OrganNUM' => '1',       'Passhash' => '',       'Note' => '',     ),   ),   1 =>    array (     0 =>      array (       'account' => 'Kevin',       'status' => 'In',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     1 =>      array (       'account' => 'Kevin',       'status' => 'Out',       'updated' => '2016-01-01 00:00:00',       'note' => '',     ),     2 =>      array (       'account' => 'Kevin',       'status' => 'Break',       'updated' => '2016-01-05 21:38:25',       'note' => '',     ),     3 =>      array (       'account' => 'Kevin',       'status' => 'Out',       'updated' => '2016-01-16 14:23:21',       'note' => '',     ),     4 =>      array (       'account' => 'Kevin',       'status' => 'Out',       'updated' => '2016-01-16 15:55:56',       'note' => '',     ),   ), ) [] {"uid":"764967e"}
+[2016-01-16 20:44:16] app.INFO: Signup action called [] {"uid":"0c04186"}
+[2016-01-16 20:44:16] app.DEBUG: array (   0 => 1,   1 => NULL,   2 => NULL,   3 => '$2y$10$p6UyoSHB3H8u9Krv05oJYeEptZWgyD7nv3Nd6DC0J.9BJenv.qXIu', ) [] {"uid":"0c04186"}
+[2016-01-16 20:45:13] app.INFO: Signup action called [] {"uid":"d62bbf7"}
+[2016-01-16 20:45:14] app.DEBUG: array (   0 => 2,   1 => NULL,   2 => NULL,   3 => '$2y$10$8gBFhbV40nyKPwq6n76GT.6zcqY8JShGV0rYbauQq61Y257Bu7tfi', ) [] {"uid":"d62bbf7"}
+[2016-01-16 21:04:25] app.INFO: Signup action called [] {"uid":"668b02f"}
+[2016-01-16 21:04:25] app.DEBUG: array (   0 => 1,   1 => 'Kevin',   2 => '0',   3 => '$2y$10$LLuDtI9mcpnKudKiq0IggOep2WWdK/4bhCoQWj5jn/yLAbuIzVGWC', ) [] {"uid":"668b02f"}
+[2016-01-16 21:05:18] app.INFO: Signup action called [] {"uid":"00e82e4"}
+[2016-01-16 21:05:19] app.DEBUG: array (   0 => 2,   1 => 'Kevin',   2 => '0',   3 => '$2y$10$3DTXT6IbvGTK6AhISCe3fuQtySM.0PVH5Hytgm0KlO2C0A4V8vEqK', ) [] {"uid":"00e82e4"}
+[2016-01-17 08:13:47] app.DEBUG: NULL [] {"uid":"ac98cae"}
+[2016-01-17 08:14:12] app.DEBUG: NULL [] {"uid":"51e55fa"}
+[2016-01-17 08:15:09] app.DEBUG: array (   0 =>    array (     'account' => 'Kevin',   ),   1 =>    array (     'account' => 'Tommy',   ), ) [] {"uid":"fea9756"}
+[2016-01-17 08:15:39] app.INFO: Signup action called [] {"uid":"f8fa780"}
+[2016-01-17 08:15:39] app.DEBUG: array (   0 =>    array (     'account' => 'Kevin',   ),   1 =>    array (     'account' => 'Tommy',   ),   2 =>    array (     'account' => 'Tommy',   ), ) [] {"uid":"cacc3c5"}
+[2016-01-17 08:16:10] app.DEBUG: array (   0 =>    array (     'account' => 'Kevin',   ),   1 =>    array (     'account' => 'Tommy',   ), ) [] {"uid":"8eb0482"}
+[2016-01-17 08:16:28] app.DEBUG: array (   0 =>    array (     'account' => 'Kevin',   ),   1 =>    array (     'account' => 'Tommy',   ), ) [] {"uid":"3d4e119"}
+[2016-01-17 08:16:35] app.DEBUG: array (   0 =>    array (     'account' => 'Kevin',   ),   1 =>    array (     'account' => 'Tommy',   ), ) [] {"uid":"98bb19e"}
+[2016-01-17 08:34:19] app.DEBUG: array (   0 => NULL,   1 => NULL, ) [] {"uid":"69416b8"}
+[2016-01-17 08:35:06] app.DEBUG: array (   0 =>    array (     0 => 'Mobagel',     1 => 'NTU',   ),   1 =>    array (     0 => 'RD',     1 => 'Marketing',   ), ) [] {"uid":"c78080e"}
+[2016-01-17 08:43:30] app.DEBUG: array (   0 =>    array (     0 => 'Mobagel',     1 => 'NTU',   ),   1 =>    array (     0 => 'RD',     1 => 'Marketing',   ), ) [] {"uid":"276fb73"}
+[2016-01-17 11:51:45] app.INFO: Signup action called [] {"uid":"9bf7212"}
+[2016-01-19 19:41:55] app.INFO: Signup action called [] {"uid":"3deff25"}
+[2016-12-06 09:44:06] app.INFO: Signup action called [] {"uid":"b46b558"}
+[2016-12-06 09:48:27] app.INFO: Signup action called [] {"uid":"ae5d579"}
+[2016-12-06 09:50:19] app.INFO: Signup action called [] {"uid":"981d97e"}
+[2016-12-06 09:57:12] app.INFO: Signup action called [] {"uid":"3a6ab04"}
+[2016-12-06 09:57:54] app.INFO: Signup action called [] {"uid":"abae46c"}
+[2016-12-06 09:58:22] app.INFO: Signup action called [] {"uid":"6c051ca"}
+[2016-12-06 09:58:50] app.INFO: Signup action called [] {"uid":"a4cea91"}
+[2016-12-06 09:59:06] app.INFO: Signup action called [] {"uid":"f4e36fb"}
+[2016-12-06 09:59:06] app.INFO: 1 [] {"uid":"f4e36fb"}
+[2016-12-06 10:00:15] app.INFO: Signup action called [] {"uid":"729dea5"}
+[2016-12-06 10:00:16] app.INFO: 1 [] {"uid":"729dea5"}
